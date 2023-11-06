@@ -27,6 +27,7 @@ Here are some of the technologies and tools I frequently work with:
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) Advanced
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) Advanced
 - ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?logo=gnu-bash&logoColor=white) Advanced
+- ![CSS](https://img.shields.io/badge/RESTfulAPI-1572B6?logo=css3&logoColor=white) Advanced
 
 ## Projects
 
