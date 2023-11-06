@@ -2,6 +2,7 @@
 
 I'm a passionate **Software Engineer** based in **Morocco**. Welcome to my GitHub profile!
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?logo=html5&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PyQT](https://img.shields.io/badge/PyQT-41CD52?logo=python&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   
 ## About Me
 
@@ -28,6 +29,7 @@ Here are some of the technologies and tools I frequently work with:
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) Advanced
 - ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?logo=gnu-bash&logoColor=white) Advanced
 - ![CSS](https://img.shields.io/badge/RESTfulAPI-1572B6?logo=css3&logoColor=white) Advanced
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) Advanced
 
 ## Projects
 
